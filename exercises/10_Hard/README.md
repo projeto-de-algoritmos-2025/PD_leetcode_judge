@@ -12,6 +12,5 @@ A solução utiliza programação dinâmica para resolver o problema de forma ef
 ## Submissão
 
 ![Submissão](/assets/10_submit.png)
-Submissão e caso de teste 1
 
 ## [Código](./10_RegularExpressionMatching.cpp)
