@@ -1,5 +1,5 @@
 // Autor: Leonardo Fernandes - 200067036
-// Leetcode Hard :: 493. Reverse Pairs
+// Leetcode Hard :: 10. Regular Expression Matching
 // https://leetcode.com/problems/regular-expression-matching/description/
 
 #include <vector>
