@@ -21,7 +21,7 @@ Repositório com resoluções de problemas de programação dinâmica do [LeetCo
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | Hard | [Código](./exercises/32_Hard/32_LongestValidParentheses.cppp) |
 
 ## Apresentação
-*Link da apresentação:* [Apresentação]()
+*Link da apresentação:* [Apresentação](https://youtu.be/gRcaq24aYTk)
 
 ## Uso
 Para executar o trabalho basta abrir o link do exercício e copiar e colar o código. Utilize a interface para testar os códigos com os testcases existentes ou personalize-os.
